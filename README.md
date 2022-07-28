@@ -25,3 +25,19 @@
 1. 사용자 로그인 & 회원가입 기능
 2. OkHttp로 Rapid Api에 NBA정보 요청 / 응답 정보를 UI(AWT, Swing)에 표시 및 제공
 3. NBA정보 검색 기능
+
+### [서비스 주요 화면]
+- <b>Login 화면</b><br><br>
+<img src="src/main/resources/capture/login.png" width="240px"><br><br>
+- <b>Login 성공 화면</b><br><br>
+<img src="src/main/resources/capture/AfterLogin.png" width="240px"><br><br>
+- <b>Menu 화면</b><br><br>
+<img src="src/main/resources/capture/MenuPanel.png" width="240px"><br><br>
+- <b>TEAM 메뉴 선택 시 Team 선택 화면</b><br><br>
+<img src="src/main/resources/capture/TeamChoice.png" width="240px"><br><br>
+- <b>TEAM 선택 후 선택 결과 화면</b><br><br>
+<img src="src/main/resources/capture/AfterChoice.png" width="240px"><br><br>
+- <b>SEARCH 메뉴 선택 시 검색 화면</b><br><br>
+  <img src="src/main/resources/capture/SearchPanel.png" width="240px"><br><br>
+- <b>검색 결과 화면</b><br><br>
+  <img src="src/main/resources/capture/SearchResult.png" width="240px"><br><br>
